@@ -6,6 +6,6 @@ const num = parseInt(prompt('Può fornirci un numero?'));
 // successivamente lo stampiamo in console
 for (let i = 1; i <= num; i++) {
     const cubo = Math.pow(i, 3);
-    console.log(cubo);
+    console.log('Il valore cubico è di: ',cubo);
     
 }

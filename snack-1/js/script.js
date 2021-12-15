@@ -10,4 +10,4 @@ for(let i =0; i<10; i++){
     sum += num;
 }
 // 3 stampiamo in console la somma dei numeri che l'utente ci ha dato
-console.log(sum)
+console.log('La somma è di: ',sum)

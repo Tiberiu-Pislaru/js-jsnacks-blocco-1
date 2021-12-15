@@ -19,4 +19,4 @@ for (let i = 0; i < num.length; i++) {
 }
 
 // 4 stampo in console il risultato
-console.log(sum);
+console.log('La somma è di: ',sum);
